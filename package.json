@@ -1,0 +1,25 @@
+{
+  "name": "checker",
+  "version": "0.0.1",
+  "description": "checks stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubak/checker.git"
+  },
+  "keywords": [
+    "checker"
+  ],
+  "author": "kuba@kubak.pl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubak/checker/issues"
+  },
+  "homepage": "https://github.com/kubak/checker#readme",
+  "dependencies": {
+    "puppeteer": "^3.0.0"
+  }
+}
